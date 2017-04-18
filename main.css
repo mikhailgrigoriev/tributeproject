@@ -12,10 +12,13 @@ body {
 
 section {
 	width:50%;
+	display: inline-block;
+	vertical-align:top;
 }
 
 aside {
-	float: right;
+	vertical-align:top;
+	display:inline-block;
 	max-width: 320px;
 	background-color:#F5F5F5;
 	border-style: solid;
@@ -27,5 +30,5 @@ aside {
 
 
 footer {
-	clear:both;
+
 }

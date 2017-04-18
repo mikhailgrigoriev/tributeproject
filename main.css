@@ -2,7 +2,7 @@ html {
 	background-color: #F5F5F5;
 }
 
-body {
+body.container-fluid {
 
 	background-color:  	#FFFAFA;
 	margin: 30px;
@@ -11,15 +11,9 @@ body {
 }
 
 section {
-	width:50%;
-	display: inline-block;
-	vertical-align:top;
 }
 
 aside {
-	vertical-align:top;
-	display:inline-block;
-	max-width: 320px;
 	background-color:#F5F5F5;
 	border-style: solid;
 	border-width: 1px;

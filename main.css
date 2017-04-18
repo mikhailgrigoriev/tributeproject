@@ -1,23 +1,21 @@
 html {
 	background-color: #F5F5F5;
 }
-/*#FDF5E6*/
-.page {
-	background-color: #FDF5E6;
+
+body {
+
+	background-color:  	#FFFAFA;
 	margin: 30px;
 	border-radius: 15px;
 	padding:5px;
 }
 
-header {
-
-}
-
-section.biography {
-
+section {
+	width:50%;
 }
 
 aside {
+	float: right;
 	max-width: 320px;
 	background-color:#F5F5F5;
 	border-style: solid;
@@ -27,10 +25,7 @@ aside {
 	margin:5px;
 }
 
-section.timeline {
-
-}
 
 footer {
-
+	clear:both;
 }

@@ -1,9 +1,9 @@
 html {
-	background-color: #FFFFF0;
-}
-
-.page {
 	background-color: #F5F5F5;
+}
+/*#FDF5E6*/
+.page {
+	background-color: #FDF5E6;
 	margin: 30px;
 	border-radius: 15px;
 	padding:5px;
@@ -18,7 +18,13 @@ section.biography {
 }
 
 aside {
-
+	max-width: 320px;
+	background-color:#F5F5F5;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: #708090;
+	margin:5px;
 }
 
 section.timeline {
@@ -26,5 +32,5 @@ section.timeline {
 }
 
 footer {
-	
+
 }

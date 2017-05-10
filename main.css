@@ -7,22 +7,24 @@ body.container-fluid {
 	background-color:  	#FFFAFA;
 	margin: 30px;
 	border-radius: 15px;
-	padding:5px;
+
 }
 
 section {
 }
 
 aside {
+
 	background-color:#F5F5F5;
 	border-style: solid;
 	border-width: 1px;
 	border-radius: 5px;
 	border-color: #708090;
-	margin:5px;
+
 }
 
 
+}
 footer {
 
 }

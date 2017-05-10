@@ -4,7 +4,7 @@ html {
 
 body.container-fluid {
 
-	background-color:  	#FFFAFA;
+	background-color: #FFFAFA;
 	margin: 30px;
 	border-radius: 15px;
 
@@ -12,14 +12,17 @@ body.container-fluid {
 
 aside {
 
-	background-color:#F5F5F5;
+	background-color:#FFFAFA;
+	border-radius: 5px;
+	border-color:#FFFAFA;
+
+
+}
+
+img.img-responsive{
+	padding: 0px;
 	border-style: solid;
 	border-width: 1px;
 	border-radius: 5px;
 	border-color: #708090;
-
-}
-
-.col-xs-4{
-	padding:0px;
 }

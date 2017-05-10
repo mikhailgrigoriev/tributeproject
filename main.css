@@ -10,9 +10,6 @@ body.container-fluid {
 
 }
 
-section {
-}
-
 aside {
 
 	background-color:#F5F5F5;
@@ -23,8 +20,6 @@ aside {
 
 }
 
-
-}
-footer {
-
+.col-xs-4{
+	padding:0px;
 }

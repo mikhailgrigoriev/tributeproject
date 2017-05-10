@@ -19,6 +19,23 @@ aside {
 
 }
 
+p, li{
+	font-size: 15px;
+}
+h1 {
+	font-size: 50px;
+}
+h2{
+
+    text-decoration: underline;
+}
+.bioparagraph{
+	text-indent:25px;
+}
+
+.quote{
+	font-style: italic;
+}
 img.img-responsive{
 	padding: 0px;
 	border-style: solid;
